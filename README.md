@@ -8,3 +8,5 @@ Test how to delete commit
 3rd commit 
 
 4th commit 
+
+modify in my ubuntu
